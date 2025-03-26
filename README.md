@@ -80,7 +80,8 @@ We welcome contributions! If you’d like to improve PiAdsX, follow these steps:
 4. Replace the current content with the above version.
 5. Click **"Commit changes"**.
 
-This will make your README more structured and easy to read. Let me know if you need further tweaks!
+This will make your README more structured and easy to read. Let me know if you need further tweaks"
+```
 
 License
 
