@@ -38,7 +38,7 @@ Database: MongoDB / Firebase
 Authentication: Pi Network OAuth
 
 Hosting: GitHub Pages / Vercel / Netlify
-MD
+
 ## Installation & Setup
 1. Clone this repository:
 
@@ -54,8 +54,7 @@ a.Run the development server
 
 ```sh
 npm start
-
-
+```
 Contributing
 
 We welcome contributions! If you’d like to improve PiAdsX, follow these steps:
