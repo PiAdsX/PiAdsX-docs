@@ -38,25 +38,22 @@ Database: MongoDB / Firebase
 Authentication: Pi Network OAuth
 
 Hosting: GitHub Pages / Vercel / Netlify
-
-
-Installation & Setup
-
+MD
+## Installation & Setup
 1. Clone this repository:
 
+```sh
 git clone https://github.com/PiAdsX/PiAdsX.git
 cd PiAdsX
 
-
-2. Install dependencies:
-
+a. Install dependencies
+```sh
 npm install
 
+a.Run the development server
 
-3. Run the development server:
-
+```sh
 npm start
-
 
 
 Contributing
