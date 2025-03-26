@@ -47,12 +47,12 @@ git clone https://github.com/PiAdsX/PiAdsX.git
 cd PiAdsX
 
 a. Install dependencies
-```sh
+sh
 npm install
 
 a.Run the development server
 
-```sh
+sh
 npm start
 ```
 Contributing
