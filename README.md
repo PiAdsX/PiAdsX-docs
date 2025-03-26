@@ -45,14 +45,15 @@ Hosting: GitHub Pages / Vercel / Netlify
 ```sh
 git clone https://github.com/PiAdsX/PiAdsX.git
 cd PiAdsX
-
+```
 a. Install dependencies
-sh
-npm install
 
+```sh
+npm install
+```
 a.Run the development server
 
-sh
+```sh
 npm start
 ```
 Contributing
@@ -67,10 +68,19 @@ We welcome contributions! If you’d like to improve PiAdsX, follow these steps:
 
 3. Make your changes and commit (git commit -m "Added new feature")
 
+```git commit -m "Added new feature"
+
 
 4. Push to your fork and submit a pull request
 
+### How to Apply These Changes:
+1. Open your **GitHub repository**.
+2. Click on **README.md**.
+3. Click the **pencil icon** (edit).
+4. Replace the current content with the above version.
+5. Click **"Commit changes"**.
 
+This will make your README more structured and easy to read. Let me know if you need further tweaks!
 
 License
 
